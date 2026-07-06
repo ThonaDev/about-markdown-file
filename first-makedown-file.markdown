@@ -53,3 +53,9 @@ This is *italic* text.
 |------|-----|
 | Thona|  22 |
 | Dudu |  19 |
+
+
+- [x] Finish project
+- [ ] Deploy website
+- [x] Study
+- [ ] Playing game
