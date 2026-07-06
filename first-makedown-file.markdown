@@ -43,3 +43,5 @@ This is *italic* text.
 *Italic*
 
 ***Bold + Italic***
+
+[Google](https://google.com)
