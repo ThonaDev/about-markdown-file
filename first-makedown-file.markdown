@@ -39,6 +39,7 @@ This is *italic* text.
 ##### This is h5
 ###### This is h6
 
-**Bold**
-
+**Bold**  
 *Italic*
+
+***Bold + Italic***
