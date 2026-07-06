@@ -45,3 +45,4 @@ This is *italic* text.
 ***Bold + Italic***
 
 [Google](https://google.com)
+[testingLink](https://testing.com)
