@@ -103,3 +103,8 @@ I *hate* you
 - [ ] Research more
 - [ ] Self-study more
 - [ ] Study Daily
+
+## Install
+```bash
+    install what ever
+```
