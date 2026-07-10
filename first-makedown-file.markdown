@@ -83,3 +83,9 @@ hi bro
 I **love** you 
 
 I *hate* you
+
+| Id | Name | Gender | Score |
+|----|------|--------|-------|
+| 101| Thona| Male   | 90    |
+| 102| Dudu | Male   | 100   |
+| 103| Bubu | Female | 94    |
