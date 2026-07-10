@@ -112,3 +112,6 @@ I *hate* you
 ```bash
     install something
 ```
+
+# My Github
+[Github](https://github.com/ThonaDev)
