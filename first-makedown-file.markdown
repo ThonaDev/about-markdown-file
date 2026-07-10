@@ -89,3 +89,11 @@ I *hate* you
 | 101| Thona| Male   | 90    |
 | 102| Dudu | Male   | 100   |
 | 103| Bubu | Female | 94    |
+
+
+
+- [x] Finish project
+- [x] Deploy website
+- [x] Study
+- [x] Playing game
+- [x] Sad
