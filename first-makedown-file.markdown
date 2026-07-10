@@ -97,3 +97,9 @@ I *hate* you
 - [x] Study
 - [x] Playing game
 - [x] Sad
+
+# What to do?
+- [ ] Practise more
+- [ ] Research more
+- [ ] Self-study more
+- [ ] Study Daily
