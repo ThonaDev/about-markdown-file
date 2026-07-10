@@ -63,3 +63,13 @@ This is *italic* text.
 hello broo
 ---
 hi bro
+
+# Heading 1
+- HTML
+- CSS
+- JS
+
+## Heading 2
+1 Python
+2 Java
+3 C#
